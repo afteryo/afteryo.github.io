@@ -100,38 +100,7 @@ a:hover {
 .abil span {
   position:relative;
 }
-#html:after{
-  content:'★★★★★';
-  position:absolute;
-  top:-5px;
-  left:0;
-  width:2.8em;
-  overflow: hidden;
-}
-#css:after{
-  content:'★★★★★';
-  position:absolute;
-  top:-5px;
-  left:0;
-  width:2.1em;
-  overflow: hidden;
-}
-#js:after{
-  content:'★★★★★';
-  position:absolute;
-  top:-5px;
-  left:0;
-  width:1.8em;
-  overflow: hidden;
-}
-#vue:after{
-  content:'★★★★★';
-  position:absolute;
-  top:-5px;
-  left:0;
-  width:0.5em;
-  overflow: hidden;
-}
+
 .port{
   max-width: 800px;
   margin: 0 auto;
